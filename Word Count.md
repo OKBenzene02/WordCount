@@ -1,3 +1,3 @@
 # WordCount
 Word Count mini project deployed on netlify....
-Website link ->> 
+Website link ->> https://wordcountmip.netlify.app/
